@@ -85,14 +85,6 @@ header {
     height: 800px;
     background: #222;
     padding: 40px;
-
-    /* 
-    
-    if you want add a cover
-    background-position: right;
-    background-repeat: no-repeat;
-
-    */
 }
 
 .cover {
